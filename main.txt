@@ -1,0 +1,4 @@
+Open an APK File on Windows
+You can open an APK file on a PC using an Android emulator like BlueStacks.
+In that program, go into the My Apps tab and then choose Install apk from 
+the corner of the window.
